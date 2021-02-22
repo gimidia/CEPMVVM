@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CEP-MVVM</string>
+    <string name="init">Digite um CEP para procurar o endereço.</string>
+    <string name="input_cep">Digite o CEP:</string>
+    <string name="send">Enviar</string>
+    <string name="cep">CEP: </string>
+    <string name="logradouro">Endereço: </string>
+    <string name="bairro">Bairro: </string>
+    <string name="localidade">Cidade: </string>
+    <string name="uf">Estado: </string>
+    <string name="ddd">DDD: </string>
+    <string name="error">Houve um erro na requisição.</string>
+    <string name="error_numbers">O CEP precisa ter de 8 digitos.</string>
+    <string name="error_exist">O número não existe na base de dados.</string>
+</resources>
