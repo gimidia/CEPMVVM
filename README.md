@@ -1,2 +1,2 @@
 # CEPMVVM
-Projeto para estudo Aplicativo CEPMVVM Android Nativo
+Projeto para estudo Aplicativo Busca de CEP - CEPMVVM Android Nativo
